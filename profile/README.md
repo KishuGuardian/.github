@@ -26,6 +26,19 @@ image exports are stored in the public asset repository:
 
 https://github.com/KishuGuardian/KishuGuardian
 
+## Official Telegram
+
+- Entry Portal: https://t.me/KishuGuardian
+- Gate Bot: https://t.me/KishuGuardianBot
+- GuardApp Bot: https://t.me/KishuGuardianAppBot
+
+Public instructions for the active Telegram bots are published on
+KishuGuardian.com:
+
+- https://KishuGuardian.com/bots.html
+- https://KishuGuardian.com/kishuguardianbot.html
+- https://KishuGuardian.com/kishuguardianappbot.html
+
 ---
 
 <p align="center">
