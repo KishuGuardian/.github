@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KishuGuardian/KishuGuardian/main/KishuGuardian%20Big%20Banner2.png" alt="KishuGuardian banner" width="900">
+  <img src="https://raw.githubusercontent.com/KishuGuardian/KishuGuardian/main/Assets/KishuGuardian%20Big%20Banner2%20-%20Telegram%20Bot%20Banner%20640x360.png" alt="KishuGuardian Telegram bot banner" width="640">
 </p>
 
 ## About
@@ -21,8 +21,8 @@ images belong to KishuGuardian and where the official image-use notice lives.
 
 ## Official Assets
 
-The official KishuGuardian profile and banner images are stored in the public
-asset repository:
+The official KishuGuardian profile, banner, Telegram bot copy, and platform
+image exports are stored in the public asset repository:
 
 https://github.com/KishuGuardian/KishuGuardian
 
@@ -33,7 +33,10 @@ https://github.com/KishuGuardian/KishuGuardian
   The profile and banner images shown on this page are copyrighted works created
   and owned by KishuGuardian. Public display does not grant permission to use,
   copy, modify, repost, mint, tokenize, sell, redistribute, or create derivative
-  works from these images.<br><br>
+  works from these images. Anyone who uses KishuGuardian images without written
+  permission may be held financially responsible for resulting damages,
+  enforcement costs, legal fees, platform fees, and any other remedies available
+  under applicable law.<br><br>
   Copyright / image-use notice:
   <a href="https://github.com/KishuGuardian/KishuGuardian/blob/main/README.md">README.md</a>
 </p>
